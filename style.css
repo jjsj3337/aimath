@@ -190,7 +190,7 @@ margin-top:3%;
   height: 2rem;
   border-radius: 10px;
   width: 100%;
-  background-color:#ffcc99; 
+  background-color:#ffcc99;  
 
 }
 .num3-bar {
@@ -199,7 +199,7 @@ margin-top:3%;
   left: 0;
   height: 2rem;
   border-radius: 10px;
- background-color: #6cb77e;
+ background-color: #ff9750;
 }
 
 .num4-box {
@@ -209,7 +209,7 @@ margin-top:3%;
   height: 2rem;
   border-radius: 10px;
   width: 100%;
-  background-color: #ff9750;
+  background-color:#c5db91; 
 
 }
 .num4-bar {
@@ -218,7 +218,7 @@ margin-top:3%;
   left: 0;
   height: 2rem;
   border-radius: 10px;
- background-color: #c5db91;
+ background-color: #6cb77e;
 }
 
 .alltitle{
